@@ -12,8 +12,8 @@ Installation
 Clone the repository to your local machine:
 
 
-git clone [repository URL]
-cd [repository directory]
+git clone https://github.com/Thedarkmatter10/logingestor.git
+cd logingestor
 Running the Log Ingestor
 To start the log ingestor on port 3000:
 
